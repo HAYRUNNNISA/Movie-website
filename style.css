@@ -1,13 +1,10 @@
 
-*{
-    margin: 0;
-    background-color:black;
-}
+
 
 
 
 .navbar{
-    background-color: darksalmon;
+    background-color:bisque;
     text-align: center;
    
    
@@ -18,5 +15,7 @@
     float: left;
 }
 span{
-    background-color: aquamarine;
+   text-align: center;
+   text-rendering: auto;
+   line-height: 1cm;
 }
