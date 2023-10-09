@@ -1,7 +1,7 @@
 
 *{
     margin: 0;
-    background-color: rgb(42, 22, 22);
+    background-color:black;
 }
 
 
@@ -9,10 +9,14 @@
 .navbar{
     background-color: darksalmon;
     text-align: center;
-    background-color: beige;
+   
    
     
 }
 .sidebar{
     background-color:bisque;
+    float: left;
+}
+span{
+    background-color: aquamarine;
 }
