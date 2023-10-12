@@ -4,18 +4,27 @@
 
 
 .navbar{
-    background-color:bisque;
+    background-color:black;
     text-align: center;
+    width:40cm;
+    color: cornsilk;
    
    
     
 }
 .sidebar{
-    background-color:bisque;
+    background-color:black;
     float: left;
+    width: 200px;
+    height: 30cm;
+    color: cornsilk;
+
 }
-span{
-   text-align: center;
-   text-rendering: auto;
-   line-height: 1cm;
+body{
+    height: 150cm;
+}
+
+*{
+    margin: 2cm;
+    
 }
