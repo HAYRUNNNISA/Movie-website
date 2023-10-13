@@ -23,6 +23,17 @@
 .wrapper{
     display: flex;
     justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+.menu{
+    display: flex;
+}
+.logo {
+    float: left;
+    width: 0;
+    height: 0;
+    margin: 0px 0px;
 }
  .navbar
 body{
