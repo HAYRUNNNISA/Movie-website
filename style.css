@@ -4,16 +4,18 @@
 
 
 .navbar{
-    background-color:antiquewhite;
+    background-color:black;
     text-align: center;
     width:40cm;
     color: cornsilk;
+    position: sticky;
+    top: 0;
    
    
     
 }
 .sidebar{
-    background-color:antiquewhite;
+    background-color:black;
     float: left;
     width: 200px;
     height: 10cm;
@@ -28,6 +30,7 @@
     justify-content: space-between;
     align-items: center;
     height: 100%;
+    padding: 0 50px;
 }
 .menu{
     display: flex;
@@ -38,9 +41,10 @@
     height: 0;
     margin: 0px 0px;
 }
- .navbar
+ 
 body{
     height: 10cm;
+    background-image:url("website foto2.webp") ;
     
 }
 .item{
