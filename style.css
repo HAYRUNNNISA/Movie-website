@@ -44,11 +44,16 @@
  
 body{
     height: 10cm;
-    background-image:url("website foto2.webp") ;
+   
+   
+   
     
 }
 .item{
    
+}
+.photo{
+    object-fit:fill;
 }
 
 *{
