@@ -15,7 +15,7 @@
 .sidebar{
     background-color:antiquewhite;
     float: left;
-    width: 150px;
+    width: 200px;
     height: 10cm;
     text-align: center;
     color: cornsilk;
@@ -41,7 +41,7 @@ body{
     height: 10cm;
 }
 .item{
-    
+    height: 2addcm;
 }
 
 *{
