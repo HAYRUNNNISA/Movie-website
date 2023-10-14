@@ -4,7 +4,7 @@
 
 
 .navbar{
-    background-color:black;
+    background-color:antiquewhite;
     text-align: center;
     width:40cm;
     color: cornsilk;
@@ -13,10 +13,11 @@
     
 }
 .sidebar{
-    background-color:black;
+    background-color:antiquewhite;
     float: left;
-    width: 200px;
-    height: 30cm;
+    width: 150px;
+    height: 10cm;
+    text-align: center;
     color: cornsilk;
 
 }
@@ -37,7 +38,10 @@
 }
  .navbar
 body{
-    height: 150cm;
+    height: 10cm;
+}
+.item{
+    
 }
 
 *{
