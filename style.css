@@ -19,6 +19,7 @@
     height: 10cm;
     text-align: center;
     color: cornsilk;
+    letter-spacing: 1cm;
 
 }
 .wrapper{
@@ -39,9 +40,10 @@
  .navbar
 body{
     height: 10cm;
+    
 }
 .item{
-    height: 2addcm;
+   
 }
 
 *{
