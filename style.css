@@ -38,6 +38,9 @@
     font-size: 30px;
     color: crimson;
 }
+.profiletext{
+    float: right;
+}
  
 body{
     height: 10cm;
