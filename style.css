@@ -29,6 +29,7 @@
 
 .menu{
     display: flex;
+    display: inline;
 }
 /*.navbarwrapper{
     display: flex;
