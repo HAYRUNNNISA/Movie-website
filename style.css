@@ -30,6 +30,12 @@
 .menu{
     display: flex;
 }
+/*.navbarwrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 80%;
+}*/
 .logo {
     float: left;
     width: 0;
@@ -38,8 +44,14 @@
     font-size: 30px;
     color: crimson;
 }
-.profiletext{
+.profile{
+    height: 70%;
+}
+.profiletextcon{
     float: right;
+    height: 70%;
+    position:sticky;
+    top: 0;
 }
  
 body{
@@ -54,6 +66,10 @@ body{
 }
 .photo{
     object-fit:fill;
+}
+.profiletext{
+    display: flex;
+
 }
 
 *{
