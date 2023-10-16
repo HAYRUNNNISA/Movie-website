@@ -28,14 +28,23 @@
 }
 
 .menu{
-   display: inline-flex;
-   display: flex;
+    align-items: center;
+   
     list-style: none;
     justify-content: space-between;
 }
 .mistake{
     display: inline-flex;
+    display: inline;
+    display: flex;
+    margin: 0 10px; /* Add spacing between menu items */
+    list-style: none;
+    
 }
+.mistake a:hover {
+    text-decoration: underline;
+}
+
 /*.navbarwrapper{
     display: flex;
     justify-content: space-between;
