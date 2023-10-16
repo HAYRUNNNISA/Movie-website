@@ -7,8 +7,8 @@
     background-color:black;
     text-align: center;
     width:40cm;
-    color: cornsilk;
-    height: 70%;
+    color: #fff8dc;
+    height: 60%;
     position: sticky;
     top: 0;
    
@@ -28,8 +28,13 @@
 }
 
 .menu{
-    display: flex;
-    display: inline;
+   display: inline-flex;
+   display: flex;
+    list-style: none;
+    justify-content: space-between;
+}
+.mistake{
+    display: inline-flex;
 }
 /*.navbarwrapper{
     display: flex;
