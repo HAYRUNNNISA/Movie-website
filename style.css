@@ -6,7 +6,7 @@
 .navbar{
     background-color:black;
     text-align: center;
-    width:40cm;
+    width:50cm;
     color: #fff8dc;
     height: 60%;
     position: sticky;
@@ -29,28 +29,34 @@
 
 .menu{
     align-items: center;
+    
+    flex-direction: row;
+    
    
     list-style: none;
     justify-content: space-between;
 }
-.mistake{
-    display: inline-flex;
-    display: inline;
-    display: flex;
-    margin: 0 10px; /* Add spacing between menu items */
+/*.mistake{
+    display:block;
+   
+    margin: 0 10px; 
     list-style: none;
-    
-}
-.mistake a:hover {
+    flex-direction: row;
+}*/
+/*.mistake a:hover {
     text-decoration: underline;
-}
+}*/
 
-/*.navbarwrapper{
+.navbarwrapper{
     display: flex;
     justify-content: space-between;
     align-items: center;
     height: 80%;
-}*/
+}
+.menucontainer{
+
+
+}
 .logo {
     float: left;
     width: 0;
@@ -58,6 +64,7 @@
     margin: 0px 0px;
     font-size: 30px;
     color: crimson;
+   
 }
 .profile{
     height: 70%;
@@ -71,6 +78,7 @@
  
 body{
     height: 10cm;
+    width: 50cm;
    
    
    
